@@ -1,5 +1,25 @@
 # Potlucky
 
+Potlucky -- an app for planning potlucks.
+
+Initial Idea:
+- guests are sent email invitations to the event
+- they follow the invitation to the site, where they can
+-- view what is needed
+-- view what is being brought already
+-- sign up to bring something
+
+- hosts can:
+-- make a list of what they'd like guests to bring
+-- view what guests are bringing
+-- upload photos to use for their site
+
+- username is: email address that the invitation is sent to
+- hosts have username & password (pseudo-admin role)
+
+- Database Model
+
+
 ## Getting Started
 
 After you have cloned this repo, run this setup script to set up your machine
@@ -30,5 +50,3 @@ programming in style.
 * [Protocol](http://github.com/thoughtbot/guides/blob/master/protocol)
 * [Best Practices](http://github.com/thoughtbot/guides/blob/master/best-practices)
 * [Style](http://github.com/thoughtbot/guides/blob/master/style)
-
-Potlucky -- an app for planning potlucks, built with suspenders from thoughtbot
